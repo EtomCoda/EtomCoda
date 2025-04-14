@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Etom (SageCoda)!
+# 👋 Hey, I'm Etom (EtomCoda)!
 
  👨🏾‍💻Backend & mobile developer passionate about building scalable digital solutions. </br>
  🧠Currently working with Next.js, Supabase, and React Native. </br>
