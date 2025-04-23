@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Etom (EtomCoda)!
 
  👨🏾‍💻Backend & mobile developer passionate about building scalable digital solutions. </br>
- 🧠Currently working with Next.js, Supabase, and React Native. </br>
+ 🧠Currently working with Express and MongoDB. </br>
  🚀Exploring Web3 & AI. </br>
  
 
